@@ -1,6 +1,6 @@
 ## React counter 🚀
 
-## Description.
+## Description
 
 A simple counter application created with React.
 
