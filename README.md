@@ -1,42 +1,50 @@
-# Contador React
+## React counter 🚀
 
-## Descripción
+## Description.
 
-Una aplicación simple de contador creada con React.
+A simple counter application created with React.
 
-## Instrucciones de Instalación
+## Installation Instructions
 
-1. **Clonar el repositorio**:
+1. **Clone the repository**:
 
-   ```bash
-   git clone <URL-del-repositorio>
-   cd nombre-del-repositorio
+   ````bash
+   git clone <URL-from-repository>
+   cd repository-name
    ```
 
-2. **Instalar las dependencias**:
+   ````
 
-   ```bash
+2. **Install the dependencies**:
+
+   ````bash
    npm install
    ```
 
-3. **Iniciar la aplicación**:
+   ````
 
-   ```bash
-   npm start
+3. **Start the application**:
+
+   ````bash
+   npm run dev
    ```
 
-4. **Abrir en el navegador**:
-   Normalmente, la aplicación estará disponible en `http://localhost:3000`.
+   ````
 
-## Características
+4. **Open in the browser**:
+   Normally, the application will be available at `http://localhost:5173`.
 
-- Incremento y decremento del contador
-- Control de límite máximo
-- No permite disminuir por debajo de 0
+## Features
 
-## Mejoras Sugeridas
+- Counter increment and decrement
+- Maximum limit control
+- Does not allow decrementing below 0
 
-- Pruebas unitarias para asegurar que todo funciona bajo diversas condiciones
-- Optimización del estado con bilbiotecas de manejo de estado como Redux
-- Mensajes de Error y Estado
-- Diversos idiomas
+## Suggested enhancements
+
+- Unit tests with tools such as Jest to ensure correct operation of functions
+- More attractive design
+- Improve accessibility
+- If part of a larger application, state handlers such as Redux could be used
+- Error and status messages
+- Different languages
