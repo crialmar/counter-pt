@@ -24,9 +24,9 @@ const App = () => {
   return (
     <>
       <div className="card">
-        <h1>Contador React</h1>
+        <h1>React counter</h1>
         <h1>{count}</h1>
-        {count === maxLimit && <p>Has llegado al límite</p>}
+        {count === maxLimit && <p>You´re in the limit</p>}
         <button
           className="increase"
           onClick={handleIncrease}

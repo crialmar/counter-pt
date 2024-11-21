@@ -29,6 +29,11 @@ h1 {
   line-height: 1.1;
 }
 
+p {
+  font-weight: bold;
+  color: #f25353;
+}
+
 button {
   border-radius: 20px;
   border: 1px solid transparent;
